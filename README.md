@@ -157,7 +157,6 @@ http://localhost:8501
 
 | Service | Lien |
 |---|---|
-<<<<<<< HEAD
 | API FastAPI (Render) | https://diabetes-prediction-ai-zaay.onrender.com/ |
 | Documentation Swagger | https://diabetes-prediction-ai-zaay.onrender.com//docs |
 | Code source (GitHub) | https://github.com/STL-dataCorp/Diabetes_Prediction_AI|
@@ -229,9 +228,3 @@ POST /predict
 **GEUTUI TCHEUTOU SAINT LOIC**
 Étudiant en Data Science / Intelligence Artificielle
 
----
-
-## 📄 Licence
-
-Projet académique — libre d'utilisation à des fins éducatives.
- 
