@@ -48,7 +48,7 @@ if st.button("🔍 Lancer la prédiction", use_container_width=True):
     try:
         # Appel à l'API FastAPI
         response = requests.post(
-            "http://127.0.0.1:8000/predict",
+            "https://diabetes-prediction-ai-zaay.onrender.com/predict",
             json=patient_data
         )
 
