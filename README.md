@@ -157,10 +157,11 @@ http://localhost:8501
 
 | Service | Lien |
 |---|---|
+<<<<<<< HEAD
 | API FastAPI (Render) | https://diabetes-prediction-ai-zaay.onrender.com/ |
 | Documentation Swagger | https://diabetes-prediction-ai-zaay.onrender.com//docs |
 | Code source (GitHub) | https://github.com/STL-dataCorp/Diabetes_Prediction_AI|
-
+ 
 ---
 
 ## 🔌 Utilisation de l'API
@@ -233,3 +234,4 @@ POST /predict
 ## 📄 Licence
 
 Projet académique — libre d'utilisation à des fins éducatives.
+ 
