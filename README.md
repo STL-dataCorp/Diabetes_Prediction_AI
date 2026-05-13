@@ -18,7 +18,7 @@ Le diabète est l'une des maladies chroniques les plus répandues dans le monde.
 Un diagnostic précoce est essentiel pour améliorer la qualité de vie des patients.
 
 Ce projet exploite le dataset **Pima Indians Diabetes Database** (UCI / Kaggle),
-qui contient des données médicales de femmes âgées de 21 ans et plus,
+qui contient des données médicales d'hommes et de femmes âgées de 21 ans et plus,
 afin d'entraîner un modèle de classification capable de prédire
 la présence ou l'absence de diabète.
 
